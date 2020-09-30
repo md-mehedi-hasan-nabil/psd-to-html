@@ -2,7 +2,9 @@
   border-radius: 50px;
   font-size: 16px;
 }
-
+nav {
+  backdrop-filter: blur(4px);
+}  
 #home {
   background-image: url(../image/img1.png);
   background-repeat: no-repeat;
